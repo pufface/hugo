@@ -1,0 +1,10 @@
+---
+hide_body: true
+fields:
+- type: text
+  default: Name
+- type: textarea
+  default: Description
+- type: datetime
+  default: 2017-11-21 00:00:00 +0100
+- type: tag_list
