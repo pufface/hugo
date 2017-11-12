@@ -1,4 +1,6 @@
 ---
+pages:
+- post/123123.md
 hide_body: true
 fields:
 - type: text
